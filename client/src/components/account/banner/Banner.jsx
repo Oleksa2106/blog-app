@@ -25,8 +25,8 @@ background: #FFFFFF;
 const Banner = () => {
     return (
         <Image>
-            <Heading>BLOG</Heading>
-            <SubHeading>Code for interview</SubHeading>
+            <Heading>NEWS</Heading>
+            <SubHeading>Coursework</SubHeading>
         </Image>
     )
 }
